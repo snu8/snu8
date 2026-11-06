@@ -1,4 +1,4 @@
-# Hey, I'm YOUR_NAME 👋
+# Hey, I'm Snub 👋
 
 **Aspiring cybersecurity enthusiast** · learning by breaking (and fixing) things.
 
@@ -36,8 +36,7 @@ I'm currently learning cybersecurity: networking, Linux, web security and how sy
 
 ### 📫 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Snu8)
 
 ---
 
