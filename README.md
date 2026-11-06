@@ -8,7 +8,7 @@ I'm currently learning cybersecurity: networking, Linux, web security and how sy
 
 ### 🔐 Currently exploring
 
-- 🐧 **Linux** - daily driver (Fedora), shell scripting, system internals
+- 🐧 **Linux** - daily driver, shell scripting, system internals
 - 🌐 **Networking** - TCP/IP, DNS, Wireshark, packet analysis
 - 🕸️ **Web security** - OWASP Top 10, Burp Suite, common vulns
 - 🚩 **CTFs & labs** - TryHackMe / Hack The Box
