@@ -11,7 +11,7 @@ I'm currently learning cybersecurity: networking, Linux, web security and how sy
 - 🐧 **Linux** - daily driver, shell scripting, system internals
 - 🌐 **Networking** - TCP/IP, DNS, Wireshark, packet analysis
 - 🕸️ **Web security** - OWASP Top 10, Burp Suite, common vulns
-- 🚩 **CTFs & labs** - TryHackMe / Hack The Box
+- 🚩 **CTFs & labs** - TryHackMe / Hack The Box / RootMe PRO
 - ⚙️ **Automation** - Python, Bash, CI/CD with GitHub Actions
 - 📝 **Note-taking** - documenting everything in Obsidian
 
@@ -29,10 +29,10 @@ I'm currently learning cybersecurity: networking, Linux, web security and how sy
 
 ### 🎯 Goals
 
-- [ ] Finish a beginner path on TryHackMe
-- [ ] Build a home lab (VMs + vulnerable targets)
+- [ ] Finish Junior Penetration Tester path on TryHackMe
+- [x] Build a home lab (VMs + vulnerable targets)
 - [ ] Publish my first CTF write-up
-- [ ] Work toward a first cert (e.g. CompTIA Security+)
+- [ ] Work toward a first cert (e.g. CompTIA Security+, TryHackMe PT1, HackTheBox CPTS...)
 
 ### 📫 Find me
 
